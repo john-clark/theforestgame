@@ -3,3 +3,7 @@
 Files to run The Forest
 
 I had problems running on Server 2019 core so I had to use Windows 10
+
+move server.cfg to 
+
+    C:\Users\%username%\AppData\LocalLow\SKS\TheForestDedicatedServer\ds
